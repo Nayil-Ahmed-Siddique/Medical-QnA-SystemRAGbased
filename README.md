@@ -46,6 +46,8 @@ MedicalGPT/
 - Internet connection
 - OpenRouter API key
 
+![Workflow Diagram](./connectingDocs.jpg)
+
 ---
 
 ## 🚀 Step 1 — Create Virtual Environment
