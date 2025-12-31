@@ -3,6 +3,8 @@
 An interactive TERMINAL-BASED MedicalGPT chatbot built using LangChain + OpenRouter.
 This project uses real medical PDFs and Retrieval-Augmented Generation (RAG).
 
+![Workflow Diagram](./ragPipeline.jpg)
+
 ⚠️ EDUCATIONAL PURPOSE ONLY  
 ❌ No diagnosis  
 ❌ No prescriptions  
