@@ -201,7 +201,7 @@ exit
 
 ---
 
-## 🧠 Core Concepts Learned (Interview-Ready)
+## 🧠 Core Concepts Learned
 
 - What is RAG and why we use it
 - Why chunking is mandatory
