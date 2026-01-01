@@ -257,7 +257,3 @@ This project was built step-by-step to:
 This is NOT a tutorial copy-paste project.
 This is a learning-first build.
 
----
-
-⭐ Star the repo if useful  
-🍴 Fork to extend
