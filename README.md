@@ -1,5 +1,15 @@
 # 🩺 MedicalGPT — Interactive Medical Chatbot (RAG-based)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green?logo=langchain)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM%20Gateway-orange?logo=openai)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-purple?logo=chromadb)
+![PyPDF](https://img.shields.io/badge/PyPDF-PDF%20Loader-red?logo=adobeacrobatreader)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Hosting-black?logo=github)
+![Terminal](https://img.shields.io/badge/Interface-Terminal-brightgreen?logo=windowsterminal)
+
 An interactive TERMINAL-BASED MedicalGPT chatbot built using LangChain + OpenRouter.
 This project uses real medical PDFs and Retrieval-Augmented Generation (RAG).
 
