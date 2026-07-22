@@ -8,10 +8,10 @@
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Hosting-black?logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)
 ![Terminal](https://img.shields.io/badge/Interface-Terminal-brightgreen?logo=windowsterminal)
 
-An interactive TERMINAL-BASED MedicalGPT chatbot built using LangChain + OpenRouter.
-This project uses real medical PDFs and Retrieval-Augmented Generation (RAG).
+An interactive **Streamlit-based** MedicalGPT chatbot built using LangChain + OpenRouter with RAG over medical PDFs.
 
 ![Workflow Diagram](./ragPipeline.jpg)
 
@@ -181,16 +181,15 @@ This confirms RAG works.
 
 ---
 
-## 💬 Step 9 — Interactive MedicalGPT Chatbot (FINAL)
+## 💬 Step 9 — ## 🖥️ Streamlit UI (New)
+
+Run the interactive web app:
+
+streamlit run app.py (FINAL)
 
 File: src/medicalgpt_chat.py
 
-Run:
-python src/medicalgpt_chat.py
 
-Terminal output:
-MedicalGPT starting...
-Type 'exit' or 'quit' to stop.
 
 Ask questions like:
 - What is anatomy?
